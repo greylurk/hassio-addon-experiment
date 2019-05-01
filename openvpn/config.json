@@ -3,6 +3,12 @@
     "version": "0.2.2",
     "slug": "openvpn",
     "description": "OpenVPN Bridging",
+    "arch": [
+        "aarch64",
+        "amd64",
+        "armhf",
+        "i386"
+    ],
     "url": "https://github.com/greylurk/hassio-addon-experiments",
     "startup": "application",
     "boot": "auto",
